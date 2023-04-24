@@ -128,20 +128,49 @@ public class tests {
         assertEquals(new Ponto(3,5),robo2.pos);
 
         Ponto p3 = new Ponto(7,8);
-        Robo robo3 = new Robo(30.0,20.0,1,p2);
+        Robo robo3 = new Robo(30.0,20.0,1,p3);
 
-        assertEquals(30.0, robo2.bat);
-        assertEquals(20.0, robo2.dist);
-        assertEquals(1, robo2.status);
-        assertEquals(new Ponto(7,8),robo2.pos);
+        assertEquals(30.0, robo3.bat);
+        assertEquals(20.0, robo3.dist);
+        assertEquals(1, robo3.status);
+        assertEquals(new Ponto(7,8),robo3.pos);
+
+        Ponto p4 = new Ponto(9,10);
+        Robo robo4 = new Robo(40.0,30.0,1,p4);
+
+        assertEquals(40.0, robo4.bat);
+        assertEquals(30.0, robo4.dist);
+        assertEquals(1, robo4.status);
+        assertEquals(new Ponto(9,10),robo4.pos);
+
 
     }
 
     @Test
     public void testGestor()	{
-        //status 1 se robo no posto, 0 se posto vazio
-        Ponto p1 = new Ponto(0, 0);
-        PostoCarga posto1 = new PostoCarga(p1, 1);
+        Ponto c1 = new Ponto(1,0);
+        Ponto c2 = new Ponto(3,0);
+        Ponto c3 = new Ponto(4,1);
+        Ponto c4 = new Ponto(10,3);
+        Ponto[] t1 = {c1, c2, c3, c4};
+        Trajetoria traj1 = new Trajetoria(t1);
+
+        Ponto c5 = new Ponto(1,0);
+        Ponto c6 = new Ponto(3,0);
+        Ponto c7 = new Ponto(4,1);
+        Ponto c7 = new Ponto(10,3);
+        Ponto[] t2 = {c5, c6, c7, c8};
+        Trajetoria traj2 = new Trajetoria(t1);
+
+        Populacao[] populacao = {traj1, traj2};
+
+        String entrada1 = "0 0 3 0 3 4 0 4";
+        Retangulo retangulo1 = new Retangulo(entrada1);
+
+        String entrada2 = "12 12 4";
+        Cricunferencia circunferencia1 = new Circunferencia(entrada2);
+
+        FiguraGeometrica[] obs = {retangulo1, circunferencia1};
 
     }
 
