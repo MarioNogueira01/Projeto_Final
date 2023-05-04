@@ -1,7 +1,3 @@
-import f.Circunferencia;
-import f.Ponto;
-import f.Retangulo;
-import f.Triangulo;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThrows;
@@ -43,17 +39,17 @@ public class tests {
         Triangulo t2 = new Triangulo(entrada2);
         Triangulo t3 = new Triangulo(entrada3);
 
-        assertEquals(new Ponto(6,8), t1.getA());
-        assertEquals(new Ponto(14,8), t1.getB());
-        assertEquals(new Ponto(10,4), t1.getC());
+        assertEquals(new Ponto(6,8), t1.a);
+        assertEquals(new Ponto(14,8), t1.b);
+        assertEquals(new Ponto(10,4), t1.c);
 
-        assertEquals(new Ponto(6,10), t2.getA());
-        assertEquals(new Ponto(6,20), t2.getB());
+        assertEquals(new Ponto(6,10), t2.a);
+        assertEquals(new Ponto(6,20), t2.b);
         assertEquals(new Ponto(12,14), t2.c);
 
-        assertEquals(new Ponto(12,6), t3.getA());
-        assertEquals(new Ponto(6,10), t3.getB());
-        assertEquals(new Ponto(12,14), t3.getC());
+        assertEquals(new Ponto(12,6), t3.a);
+        assertEquals(new Ponto(6,10), t3.b);
+        assertEquals(new Ponto(12,14), t3.c);
     }
 
     @Test
