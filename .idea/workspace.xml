@@ -4,12 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6226a5bc-2175-487e-80dc-f44da36cd870" name="Changes" comment="ola______">
+    <list default="true" id="6226a5bc-2175-487e-80dc-f44da36cd870" name="Changes" comment="ola">
+      <change afterPath="$PROJECT_DIR$/src/Test/Robo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f/Carga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f/Circunferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f/FiguraGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f/Gestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f/Ponto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f/Populacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f/Posto_carga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f/Trajectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f/Triangulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <list id="356f0751-c0ca-4186-9c7a-268be645e61d" name="Changes by Pauro" comment="">
+      <change beforePath="$PROJECT_DIR$/Projeto Poo.vpp" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto Poo.vpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test/tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/tests.java" afterDir="false" />
     </list>
+    <list id="0979b82f-ba8d-4c5a-90db-fe3eca245de5" name="Changes by leonardocolucas" comment="" />
+    <list id="8fca775f-c1ab-464c-87e4-be7843976b5e" name="Changes by Pauro" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,30 +53,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/OneDrive/Ambiente de Trabalho/GitHub.lnk&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "C:/Users/user/OneDrive/Ambiente de Trabalho/GitHub.lnk",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\OneDrive\Documentos\GitHub\Projeto_Final\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.tests.testConstrutorTriangulo">
     <configuration name="T2timeTests.testConstructor0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Projeto Final" />
       <option name="PACKAGE_NAME" value="" />
@@ -70,8 +93,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tests.testConstrutorTriangulo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projeto Final" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="tests" />
+      <option name="METHOD_NAME" value="testConstrutorTriangulo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.tests.testConstrutorTriangulo" />
         <item itemvalue="JUnit.T2timeTests.testConstructor0" />
       </list>
     </recent_temporary>
@@ -88,15 +122,8 @@
       <workItem from="1681218123876" duration="15000" />
       <workItem from="1682158284257" duration="5994000" />
       <workItem from="1682351570133" duration="542000" />
+      <workItem from="1683220127359" duration="10602000" />
     </task>
-    <task id="LOCAL-00001" summary="ola______">
-      <created>1682364113063</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1682364113063</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +131,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ola" />
-    <MESSAGE value="ola______" />
-    <option name="LAST_COMMIT_MESSAGE" value="ola______" />
+    <option name="LAST_COMMIT_MESSAGE" value="ola" />
   </component>
 </project>
