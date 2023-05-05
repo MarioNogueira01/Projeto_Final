@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6226a5bc-2175-487e-80dc-f44da36cd870" name="Changes" comment="ola" />
-    <list id="356f0751-c0ca-4186-9c7a-268be645e61d" name="Changes by Pauro" comment="" />
+    <list default="true" id="6226a5bc-2175-487e-80dc-f44da36cd870" name="Changes" comment="ola______">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="356f0751-c0ca-4186-9c7a-268be645e61d" name="Changes by Pauro" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Test/tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/tests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +88,6 @@
       <workItem from="1681218123876" duration="15000" />
       <workItem from="1682158284257" duration="5994000" />
       <workItem from="1682351570133" duration="542000" />
-      <workItem from="1683312268896" duration="335000" />
     </task>
     <task id="LOCAL-00001" summary="ola______">
       <created>1682364113063</created>
@@ -93,40 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1682364113063</updated>
     </task>
-    <task id="LOCAL-00002" summary="ola">
-      <created>1683312514957</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1683312514957</updated>
-    </task>
-    <task id="LOCAL-00003" summary="ola">
-      <created>1683312587642</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1683312587642</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ola______" />
     <MESSAGE value="ola" />
-    <option name="LAST_COMMIT_MESSAGE" value="ola" />
+    <MESSAGE value="ola______" />
+    <option name="LAST_COMMIT_MESSAGE" value="ola______" />
   </component>
 </project>
